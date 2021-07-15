@@ -1,0 +1,18 @@
+{
+	"a-skz-portable": {
+		"Driver": "{SQL Server}",
+        "Server": "a-skz-portable",
+        "Database": "REDCHECK",
+        "UID": "sapuib-admin",
+        "PWD": "$3iC#]1+,Aa1@6",
+        "Trusted_Connection": "no"
+	},
+	"sius": {
+		"Driver": "{SQL Server}",
+        "Server": "gtv-db03",
+        "Database": "REDCHECK",
+        "UID": "sapuib-admin",
+        "PWD": "Aa123456",
+        "Trusted_Connection": "no"
+	}
+}
